@@ -115,7 +115,7 @@ body {
 	/* team_option2 */
 .team_option2 ul li {clear:none;width:452px;padding:0;border:none;}
 .team_option2 ul li:nth-child(2n+2) {float:right;}
-.team_option2 ul li .img {width:auto;border:5px solid #f6f3f3;float:none;margin-bottom:20px;}
+.team_option2 ul li .img {width:auto;border:0px solid #f6f3f3;float:none;margin-bottom:20px;}
 .team_option2 ul li .desc {width:auto;float:none;padding:0;}
 .team_option2 ul li .desc .social {top:5px;}
 .team_option2 ul li .desc .social li {float:left;width:auto;padding:0 0 0 6px;font-size:0;line-height:0;}
